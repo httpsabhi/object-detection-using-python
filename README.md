@@ -2,7 +2,7 @@
 
 The provided code demonstrates how to perform object detection using a pre-trained model in OpenCV. Here's a breakdown of the code:
 
-Import the necessary libraries:
+import the necessary libraries:
 import cv2
 import matplotlib.pylab as plt
 
